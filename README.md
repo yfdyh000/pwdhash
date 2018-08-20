@@ -1,7 +1,7 @@
 # PwdHash Sidebar
 [PwdHash](https://crypto.stanford.edu/PwdHash/) (by Stanford) generates passwords resistant to theft and phishing by hashing a combination of the sites address and your password.
-It is available as browser extensions ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/pwdhash/), [Chrome](https://chrome.google.com/extensions/detail/dnfmcfhnhnpoehjoommondmlmhdoonca), [Opera <12](https://www.coredump.gr/pwdhash-for-opera/)),
-apps ([Android](https://play.google.com/store/apps/details?id=com.uploadedlobster.PwdHash&hl=de), [iOS](https://itunes.apple.com/us/app/keygrinder/id354763605), [Windows](https://github.com/mgutekunst/WP8-PwdHash)),
+It is available as browser extensions ([Firefox](https://addons.mozilla.org/firefox/addon/pwdhash/), [Chrome](https://chrome.google.com/extensions/detail/dnfmcfhnhnpoehjoommondmlmhdoonca), [Opera <12](https://www.coredump.gr/pwdhash-for-opera/)),
+apps ([Android](https://play.google.com/store/apps/details?id=com.uploadedlobster.PwdHash), [iOS](https://itunes.apple.com/app/keygrinder/id354763605), [Windows](https://github.com/mgutekunst/WP8-PwdHash)),
 scripts ([Ruby](https://github.com/kizzx2/pwdhash.rb), [Python](https://pypi.python.org/pypi/pwdhash.py))
 or a simple web page which uses Javascript.
 

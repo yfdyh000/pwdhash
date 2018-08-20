@@ -1,0 +1,64 @@
+{
+    "extensionName": {
+        "message": "PwdHash Sidebar",
+        "hash": "6028e6cadbbf22b6d67f2a0ae1f220d7"
+    },
+    "extensionDescription": {
+        "message": "手动为各站点生成一个独立的散列密码（PwdHash）",
+        "hash": "a52230822c2f2ab0e85d0335334e9589"
+    },
+    "addressLabel": {
+        "message": "地址",
+        "hash": "dc5b15c07aa97cd147a735d0d141038c"
+    },
+    "addressPlaceholder": {
+        "message": "https://www.example.com/",
+        "hash": "4ee1551dea0314e92ad8faf1eebd92e5"
+    },
+    "passwordLabel": {
+        "message": "密码",
+        "hash": "98366484e203f7da68c037522bc7134e"
+    },
+    "passwordPlaceholder": {
+        "message": "密码",
+        "hash": "98366484e203f7da68c037522bc7134e"
+    },
+    "pwdhashLabel": {
+        "message": "散列密码",
+        "hash": "169132f3f0da24a6ef406ff095254fd9"
+    },
+    "pwdhashPlaceholder": {
+        "message": "输入信息以生成",
+        "hash": "90a2d4e323368780a7a0e95be7799352"
+    },
+    "readmeText": {
+        "message": "软件介绍",
+        "hash": "0200ba35aec12f1f4a67da79aa2337c7"
+    },
+    "readmeTitle": {
+        "message": "了解工作原理",
+        "hash": "f37514df72559779f208dc2f7beb4f67"
+    },
+    "readmeUrl": {
+        "message": "https://github.com/quassy/pwdhash/blob/gh-pages/README.zh_CN.md",
+        "hash": "902977bc390e87ffe46eab62291daa01"
+    },
+    "actionPopup": {
+        "message": "PwdHash (F8)",
+        "hash": "75a4007d0b234e6a091c7b35bb9bf8ea"
+    },
+    "actionSidebar": {
+        "message": "PwdHash",
+        "hash": "169132f3f0da24a6ef406ff095254fd9"
+    },
+    "shortcutPopup": {
+        "message": "打开 PwdHash 小窗口",
+        "hash": "3d85c72906dc177f714b26a4103901d7"
+    },
+    "shortcutSidebar": {
+        "message": "打开 PwdHash 侧栏",
+        "hash": "666474c6cca97f5207dcc35c1e9ae1b9"
+    },
+
+    "__WET_LOCALE__": { "message": "zh-CN" }
+}
